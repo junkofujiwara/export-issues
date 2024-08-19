@@ -1,4 +1,4 @@
-# export-issues
+# Export GitHub Issues
 
 # Preparation
 Install dependancies
