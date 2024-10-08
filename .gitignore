@@ -3,5 +3,8 @@ __pycache__/
 *.log
 *.csv
 .venv/*
+venv/*
 .DS_Store
 output/*
+.cookie
+.env
